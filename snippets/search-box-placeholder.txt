@@ -1,0 +1,3 @@
+<input id="primoQueryTemp" placeholder="Find journal articles, books and more" size="50" style="line-height: 3em; height: 3em; width: 75%; border-radius: .3em .3em .3em .3em; position: relative; top: 1px;" type="text" value="">
+
+<!-- Serena requested that the placeholder text be made lighter. I think we would need a CSS applied to <placeholder> there is already in line styling for the ID. -->
