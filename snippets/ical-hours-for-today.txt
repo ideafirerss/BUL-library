@@ -1,0 +1,7 @@
+This is a pair of scripts derived from the iCal api that takes the days open and close from the iCal and makes it one line per day per place.
+
+BUL
+<div id="api_hours_today_iid533_lid106"></div><script src="https://api3.libcal.com/api_hours_today.php?iid=533&lid=106&format=js&systemTime=1&context=object"> </script>
+
+SEM
+<div id="api_hours_today_iid533_lid107"></div><script src="https://api3.libcal.com/api_hours_today.php?iid=533&lid=107&format=js&systemTime=1&context=object"> </script
